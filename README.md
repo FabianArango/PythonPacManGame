@@ -12,7 +12,6 @@ If you don't have python installed:
   If you don't want to install it, there's a executable for Windows in the folder "dist" called "PacMan.exe"
 
 If you don't have pygame installed:
-  You can install it with:
-    pip install pygame
+  You can install it with pip install pygame (if you have already installed python)
     
 THE GAME DOESN'T HAVE ANY DOCUMENTATION !!!
