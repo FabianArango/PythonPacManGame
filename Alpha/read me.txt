@@ -1,6 +1,0 @@
-#--------------------------------------------------------#
-
-Esto era una alpha y debido a ciertos cambios puede 
-funcionar de forma incorrecta.
-
-#--------------------------------------------------------#
