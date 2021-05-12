@@ -3,4 +3,16 @@ A very buggy game of Pac Man
 
 The game was made with python 3.8.2 and requires pygame 1.9.6
 
-This is the third game I made when I started programming. The game have a lot of bugs, spaghetti code, duplicate code and it has a very strange organization (and doesn't have any documentation), so download and play it under your risk.
+Some context:
+  This is the third game I made when I started programming so the code is a mess and the game have a lot of bugs. :\
+  Play the game under your risk.
+
+If you don't have python installed:
+  You can install python, here's his offcial site: https://www.python.org/
+  If you don't want to install it, there's a executable for Windows in the folder "dist" called "PacMan.exe"
+
+If you don't have pygame installed:
+  You can install it with:
+    pip install pygame
+    
+THE GAME DOESN'T HAVE ANY DOCUMENTATION !!!
