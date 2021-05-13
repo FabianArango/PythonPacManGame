@@ -7,7 +7,7 @@ Some context:
   This is the third game that I made when I started programming so the code is a mess and the game have a lot of bugs, play the game under your risk.
 
 If you don't have python installed:
-  You can install python, here's his offcial site: https://www.python.org/
+  You can install python, here's the offcial site: https://www.python.org/
 
 If you don't have pygame installed:
   You can install it with pip install pygame (if you have already installed python)
